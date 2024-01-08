@@ -8,4 +8,4 @@ React kullanılarak geliştirilmiş not alma uygulamasıdır. Kullanıcılar, no
 - react-icons
 
   ![](./public/notpro.gif)
-# Notes
+
